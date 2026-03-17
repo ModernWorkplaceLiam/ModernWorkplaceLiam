@@ -18,8 +18,6 @@ I design, deploy, and automate Microsoft 365 modern workplace environments for e
 
 ## 🏅 Certifications
 
-### Achieved
-
 ### ✅ Achieved
 
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
