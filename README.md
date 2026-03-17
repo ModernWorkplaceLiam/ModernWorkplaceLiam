@@ -1,7 +1,7 @@
 # Hi, I'm Liam 👋
 
 ```
-// Modern Workplace Engineer · Birmingham, UK ·
+// Modern Workplace Engineer · Birmingham, UK
 ```
 
 A decade of Microsoft ecosystem experience — from hands-on desktop support to modern workplace engineering. I specialise in **Microsoft Intune**, **Entra ID**, **M365 security**, and **PowerShell automation** at enterprise scale.
@@ -20,18 +20,14 @@ I design, deploy, and automate Microsoft 365 modern workplace environments for e
 
 ### Achieved
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MS--900-M365%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/ITIL-V4%20Foundation-6B21A8?style=flat-square&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CompTIA-A%2B-EE0000?style=flat-square&logo=comptia&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Microsoft-MCDST-0078D4?style=flat-square&logo=microsoft&logoColor=white" /></td>
-  </tr>
-</table>
+### ✅ Achieved
+
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MS-900](https://img.shields.io/badge/MS--900-M365%20Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SC-900](https://img.shields.io/badge/SC--900-Security%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![ITIL V4](https://img.shields.io/badge/ITIL-V4%20Foundation-6B21A8?style=flat-square&logoColor=white)
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EE0000?style=flat-square&logo=comptia&logoColor=white)
+![MCDST](https://img.shields.io/badge/Microsoft-MCDST-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 ### 🎯 In Progress — 2025/26
 
