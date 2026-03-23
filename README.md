@@ -1,7 +1,7 @@
 # Hi, I'm Liam 👋
 
 ```
-// Modern Workplace Engineer · Birmingham, UK
+// Modern Workplace Engineer · Birmingham, UK · https://www.github.com/ModernWorkplaceLiam
 ```
 
 A decade of Microsoft ecosystem experience — from hands-on desktop support to modern workplace engineering. I specialise in **Microsoft Intune**, **Entra ID**, **M365 security**, and **PowerShell automation** at enterprise scale.
