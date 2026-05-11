@@ -32,10 +32,6 @@ I design, deploy, and automate Microsoft 365 modern workplace environments for e
 | Cert | Name | Domain |
 |------|------|--------|
 | `MD-102` | Endpoint Administrator Associate | Endpoint / Intune |
-| `SC-300` | Identity & Access Administrator Associate | Entra ID / IAM |
-| `MS-102` | Microsoft 365 Administrator Expert | M365 Administration |
-| `SC-200` | Security Operations Analyst Associate | Security Ops |
-| `MS-700` | Teams Administrator Associate | Collaboration |
 
 ---
 
